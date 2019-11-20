@@ -6,5 +6,5 @@ https://www.sejuku.net/blog/57625<br>
 MDN<br>
 https://developer.mozilla.org/ja/docs/Web/API/Document/querySelectorAll<br>
 <p>
-Qiita    
+Qiita <br>
 https://qiita.com/mejileben/items/69e5facdb60781927929<br>
